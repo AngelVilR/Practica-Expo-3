@@ -1,0 +1,43 @@
+.prueba{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3,1fr);
+    gap: 0.5rem;
+    
+}
+*{
+    margin: 0;
+}
+
+.test{
+    margin-left: -9px;
+    background-color: #F0F400;
+    padding: 2em;
+    margin-right: 10em;
+    border-radius: 1em;
+}
+.centro{
+    margin-left: 145px;
+    background-color: #F0F400;
+    margin-right: 10em;
+    padding: 2em;
+    border-radius: 1em;
+}
+.izquierda{
+    margin-left: 15em;
+    background-color: #F0F400;
+    padding: 2em;
+    border-radius: 1em;
+}
+header{
+    text-align: center;
+    background-color: #4177B8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: #E44B30;
+}
+.foto{
+    text-align: center;
+}
